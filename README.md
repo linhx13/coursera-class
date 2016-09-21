@@ -1,0 +1,1 @@
+This is for my coursera class, including notes and code.
